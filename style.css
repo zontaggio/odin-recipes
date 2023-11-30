@@ -1,0 +1,14 @@
+body, a {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: rgb(45, 45, 45);
+    color: whitesmoke;
+    text-align: center;
+}
+
+.subtitles {
+    color: rgb(92, 92, 215);
+}
+
+ul, ol {
+    list-style-position: inside; 
+}
